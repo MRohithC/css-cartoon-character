@@ -9,12 +9,12 @@ It showcases:
 
 ## Features
 
-- 🟡 Circular cartoon head with gradient
-- 👀 Blinking eyes (CSS animation)
-- 👋 Waving right hand (CSS rotation animation)
-- 💬 “Hello!” speech bubble that fades in/out
-- 🎨 Nice, warm background
-- 📱 Responsive enough for small screens
+- Circular cartoon head with gradient
+- Blinking eyes (CSS animation)
+- Waving right hand (CSS rotation animation)
+- “Hello!” speech bubble that fades in/out
+- Nice, warm background
+- Responsive enough for small screens
 
 ## Tech
 
